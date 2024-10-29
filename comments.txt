@@ -1,0 +1,7 @@
+This is a text file where you can make a comment along side with your changes and suggestions.
+
+PNG aspect ratio:
+  w = 1432.000
+  h = 1080.000
+
+This is the preferred aspect ratio of our png.
